@@ -1,0 +1,26 @@
+Total number of tasks: 2
+details for user admin
+Total number of tasks assigned to user:2
+percentage of tasks assigned to user: 100.0 %
+Percent of tasks completed by user: 0.0 %
+percentage of tasks incompleted by user: 100.0 %percentage of tasks overdue and incomplete by user: 100.0 %
+details for user aidan
+Total number of tasks assigned to user:0
+percentage of tasks assigned to user: 0.0 %
+Percent of tasks completed by user: 0 %
+percentage of tasks incompleted by user: 0 %percentage of tasks overdue and incomplete by user: 0 %
+details for user tom
+Total number of tasks assigned to user:0
+percentage of tasks assigned to user: 0.0 %
+Percent of tasks completed by user: 0 %
+percentage of tasks incompleted by user: 0 %percentage of tasks overdue and incomplete by user: 0 %
+details for user joe
+Total number of tasks assigned to user:0
+percentage of tasks assigned to user: 0.0 %
+Percent of tasks completed by user: 0 %
+percentage of tasks incompleted by user: 0 %percentage of tasks overdue and incomplete by user: 0 %
+details for user mike
+Total number of tasks assigned to user:0
+percentage of tasks assigned to user: 0.0 %
+Percent of tasks completed by user: 0 %
+percentage of tasks incompleted by user: 0 %percentage of tasks overdue and incomplete by user: 0 %
